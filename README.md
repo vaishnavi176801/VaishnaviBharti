@@ -2,9 +2,11 @@
 
 About Me
 
-I am a Computer Science Student at Dalhousie University
-Passionate about Web and Software Development
-Looking for Fall 2025 Internship/Co-Op
+🎓Computer Science Student at Dalhousie University
+
+💻 Passionate about Web and Software Development
+
+🚀 Looking for Fall 2025 Internship/Co-Op
 
 
 ## Languages
@@ -17,5 +19,4 @@ Looking for Fall 2025 Internship/Co-Op
 6. CSS
 7. JavaScript
 
-
-
+## Connect with Me
