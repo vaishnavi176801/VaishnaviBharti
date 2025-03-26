@@ -1,12 +1,13 @@
-Hi there, I'm Vaishnavi Bharti!
+# Hi there, I'm Vaishnavi Bharti!
 
 About Me
-Computer Science Student at Dalhousie University
+
+I am a Computer Science Student at Dalhousie University
 Passionate about Web and Software Development
 Looking for Fall 2025 Internship/Co-Op
 
 
-Languages
+## Languages
 
 1. C++
 2. SQL
